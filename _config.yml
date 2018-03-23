@@ -1,10 +1,10 @@
 # Site settings
-title:       (ceritan(nya) developer[]);
-email:       your_email@example.com
-author:      John Otander
+title:       (ceritan(nya) developer[])/podcast;
+email:       rizafahmi@gmail.com
+author:      Riza Fahmi
 description: "A simple, beautiful theme for Jekyll that emphasizes content rather than aesthetic fluff."
 baseurl:     ""
-url:         "http://pixyll.com"
+url:         "http://ceritanyadeveloper.com"
 date_format: "%b %-d, %Y"
 header_pages:
  - about.md
