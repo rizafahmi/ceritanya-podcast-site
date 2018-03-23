@@ -21,11 +21,15 @@ Beberapa fakta menariknya lagi adalah Mas Dicky ini merupakan _early mentor_ dar
 
 ## Referensi Buku
 
-* [Domain-Driven Design, Eric Evans](http://dddcommunity.org/book/evans_2003/)
+* [Domain-Driven Design, Eric Evans](https://www.amazon.com/Domain-Driven-Design-Tackling-Complexity-Software/dp/0321125215)
+* [Functional and Reactive Domain Modeling, Debasish Ghosh](https://www.manning.com/books/functional-and-reactive-domain-modeling)
+* [x86-64 CPU family manuals](https://software.intel.com/en-us/articles/intel-sdm)
+* [Digital computer electronics, Albert Paul Malvino](https://www.amazon.com/Digital-computer-electronics-Albert-Malvino/dp/0070398615)
+* [The Elements of Computing Systems, Noam Nisam & Simon Schocken](https://www.amazon.com/Elements-Computing-Systems-Building-Principles/dp/0262640686)
 
 ## Referensi Lainnya
 
 * [Scala](https://www.scala-lang.org/)
-* [Scala Course Coursera](https://www.coursera.org/learn/progfun1)
+* [Scala Course di Coursera](https://www.coursera.org/learn/progfun1)
 * [C#](https://en.wikipedia.org/wiki/C_Sharp_(programming_language))
 * [F#](http://fsharp.org/)
