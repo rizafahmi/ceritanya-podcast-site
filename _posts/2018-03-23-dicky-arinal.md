@@ -5,7 +5,7 @@ date:       2018-03-23
 summary:    Developer yang satu ini sangat mengagungkan elegansi.
 ---
 
-<audio controls style="width: 98%"><source src="//randomscreencast.com.s3.amazonaws.com/cdp-ep1.m4a" /></audio>
+<audio controls style="width: 98%"><source src="https://randomscreencast.com.s3.amazonaws.com/cdp-ep1.m4a" /></audio>
 
 
 Dicky Arinal adalah saat ini adalah senior software engineer [Agoda](https://www.agoda.com/). Ia mendeskripsikan dirinya sebagai seorang seniman pembuat software atau _software craftman_ yang sangat mendewakan elegansi dari sebuah _code_. Mas Dicky ini juga tipikal developer yang langka karena fasih berbagai bahasa pemrograman atau istilahnya _language agnostic_ dan _polyglot developer_.
