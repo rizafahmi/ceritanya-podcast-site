@@ -4,7 +4,7 @@ email:       rizafahmi@gmail.com
 author:      Riza Fahmi
 description: "A simple, beautiful theme for Jekyll that emphasizes content rather than aesthetic fluff."
 baseurl:     ""
-url:         "http://ceritanyadeveloper.com"
+url:         "http://ceritanyadeveloper.netlify.com/"
 date_format: "%b %-d, %Y"
 header_pages:
  - about.md
