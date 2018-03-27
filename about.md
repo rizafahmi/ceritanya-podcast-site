@@ -15,4 +15,4 @@ Selamat datang di ceritanya developer podcast. Saya [ Riza ](https://rizafahmi.c
 * [iTunes]()
 * [PocketCast]()
 * [Spotify?]()
-* [Anchor](https://anchor.fm/ceritanyadeveloper)
+* [Anchor.fm](https://anchor.fm/ceritanya-developer)
