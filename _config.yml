@@ -2,7 +2,7 @@
 title:       (ceritan(nya) developer[])/podcast;
 email:       rizafahmi@gmail.com
 author:      Riza Fahmi
-description: "A simple, beautiful theme for Jekyll that emphasizes content rather than aesthetic fluff."
+description: "Di podcast ini saya akan berbincang-bincang dengan developer, programmer, software engineer keren tentang bagaimana mereka memulai karir mereka sebagai developer. Kita juga akan mendengar cerita mereka tentang komputer pertama mereka, pengalaman coding pertama hingga pekerjaan pertama mereka sebagai developer."
 baseurl:     ""
 url:         "http://ceritanyadeveloper.netlify.com/"
 date_format: "%b %-d, %Y"
