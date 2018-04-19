@@ -5,9 +5,18 @@ date:       2018-03-23
 summary:    Developer yang satu ini sangat mengagungkan elegansi.
 ---
 
-<!--<audio controls style="width: 98%"><source src="http://randomscreencast.com.s3.amazonaws.com/cdp-ep1.m4a" /></audio>-->
 <iframe src="https://anchor.fm/ceritanya-developer/embed/episodes/devs0--Dicky-Arinal-e186lm/a-a2rj6j" height="162px" width="98%" frameborder="0" scrolling="no"></iframe>
 <a href="http://randomscreencast.com.s3.amazonaws.com/cdp-ep1.m4a" target="_blank">Download</a>
+
+<h2>Subscribe</h2>
+<a style="background-image: none" href="https://anchor.fm/ceritanya-developer" data-vars-outbound-link="https://anch.co/get_anchor" target="_blank" rel="noopener noreferrer"><img alt="Anchor Podcasts" class="styles__anchorPodcasts___CJAQT" src="https://d12xoj7p9moygp.cloudfront.net/images/podcast/anchor-podcasts-3.png" srcset="https://d12xoj7p9moygp.cloudfront.net/images/podcast/anchor-podcasts-3.png 1x, https://d12xoj7p9moygp.cloudfront.net/images/podcast/anchor-podcasts-3@2x.png 2x" width="130" height="40"></a> 
+<a style="background-image: none" class=" jsOutboundLink" href="https://itunes.apple.com/id/podcast/ceritanya-developer-podcast/id1364448110?mt=2" data-vars-outbound-link="https://itunes.apple.com/us/podcast/tehataukopi/id1352151842?mt=2" target="_blank" rel="noopener noreferrer"><img alt="Apple Podcasts" class="styles__applePodcasts___1BGG3" src="https://d12xoj7p9moygp.cloudfront.net/images/podcast/apple-podcasts-3.png" srcset="https://d12xoj7p9moygp.cloudfront.net/images/podcast/apple-podcasts-3.png 1x, https://d12xoj7p9moygp.cloudfront.net/images/podcast/apple-podcasts-3@2x.png 2x" width="137" height="40"></a> 
+<a style="background-image: none" class=" jsOutboundLink" href="http://pca.st/CwU8" data-vars-outbound-link="http://pca.st/L333" target="_blank" rel="noopener noreferrer"><img alt="PocketCasts" class="styles__pocketCasts___iURED" src="https://d12xoj7p9moygp.cloudfront.net/images/podcast/pocketcasts-4.png" srcset="https://d12xoj7p9moygp.cloudfront.net/images/podcast/pocketcasts-4.png 1x, https://d12xoj7p9moygp.cloudfront.net/images/podcast/pocketcasts-4@2x.png 2x" width="131" height="40"></a>
+
+> "Pada waktu itu saya merasa sudah jago karena sudah bisa membuat game dengan paradigma OOP. Ketika saya mencoba untuk mengaplikasikan OOP didalam aplikasi bisnis dan saya mengalami kesulitan. Karena ternyata implementasi OOP di aplikasi bisnis jauh lebih susah." Dicky Arinal.
+
+<a style="background-image: none;" href="https://ctt.ec/wiYQ3"><img style="width: 32px;" src="images/icons/2.png" /> Tweet it!</a>
+
 
 Dicky Arinal adalah saat ini adalah senior software engineer [Agoda](https://www.agoda.com/). Ia mendeskripsikan dirinya sebagai seorang seniman pembuat software atau _software craftman_ yang sangat mendewakan elegansi dari sebuah _code_. Mas Dicky ini juga tipikal developer yang langka karena fasih berbagai bahasa pemrograman atau istilahnya _language agnostic_ dan _polyglot developer_.
 
