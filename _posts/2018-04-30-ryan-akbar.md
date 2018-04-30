@@ -5,7 +5,8 @@ date:       2018-04-30
 summary:    Developer serba bisa, instruktur keren dan juga desainer.
 ---
 
-<iframe src="https://anchor.fm/ceritanya-developer/embed/episodes/devs1--Ryan-Akbar-e199tf" height="102px" width="98%" frameborder="0" scrolling="no"></iframe>
+<iframe src="https://anchor.fm/ceritanya-developer/embed/episodes/devs1--Ryan-Akbar-e199tf" height="162px" width="98%" frameborder="0" scrolling="no"></iframe>
+
 Ryan Akbar adalah seorang web developer, expertise nya di Laravel, JavaScript,
 Node, Vue, dan juga React. Pernah jadi designer juga dan seorang instruktur yang
 oke banget. Saat ini Ryan merupakan salah satu instruktur _coding bootcamp_ [Hacktiv8](https://hacktiv8.com/).
