@@ -12,7 +12,7 @@ Trimikha Valentius adalah _lead developer_ di sebuah perusahaan asal Australia, 
 
 Menurut Mas Mikha, membuat aplikasi dan game itu seperti merakit mainan yang bagian-bagiannya sudah ada tinggal bagaimana kita merangkainya menjadi satu kesatuan yang dapat berfungsi dengan baik. Itulah sebabnya Mas Mikha sangat mencintai dunia programming.
 
-Kerja secara _remote_ merupakan hal yang sedang marak beberapa tahun belakangan ini, tapi buat Mas Mikha, kerja _remote_ sudah ia lakukan sejak dari SMA dan bahkan setelah lulus SMA ia pun kerja _remote_ secara fulltime di sebuah perusahaan yang berada di Sunderland, Inggris.
+Kerja secara _remote_ merupakan hal yang sedang marak beberapa tahun belakangan ini, tapi buat Mas Mikha, kerja _remote_ sudah ia lakukan sejak 2009. Mulai dari bangku SMA hingga setelah lulus ia pun masih melanjutkan kerja _remote_ secara _fulltime_ di sebuah perusahaan yang berada di Sunderland, Inggris sebelum akhirnya memutuskan untuk mencari pekerjaan _onsite_ setelah lulus kuliah.
 
 Setelah lulus SMA di 2009, Mas Mikha melanjutkan pendidikan ke jenjang kuliah dan pilihannya sudah jelas jurusan _Informatics Engineering_ juga sambil bekerja secara _remote_. Dan saat kuliah Mas Mikha mulai eksplorasi diluar ranah game development dengan belajar beberapa teknologi seperti web development hingga mobile development. Setelah lulus kuliah sekitar 2013, dan karena dapat beberapa tawaran menarik untuk bekerja onsite, akhirnya penggemar [John Carmack](https://en.wikipedia.org/wiki/John_Carmack) ini memutuskan untuk bekerja onsite di Bali hingga sekarang.
 
