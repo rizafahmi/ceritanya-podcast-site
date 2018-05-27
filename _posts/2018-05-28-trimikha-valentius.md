@@ -33,7 +33,9 @@ Setelah lulus SMA di 2009, Mas Mikha melanjutkan pendidikan ke jenjang kuliah da
 
 * [Facebook](https://www.facebook.com/trimikhavalentius.vallie)
 * [Twitter](https://twitter.com/tvalentius)
+* [GitHub](https://github.com/tvalentius)
 * [Developer Circle Bali Group](https://www.facebook.com/groups/DevCBali/)
+* [BaliJS](http://balijs.com/)
 
 ## Tech Stack
 
