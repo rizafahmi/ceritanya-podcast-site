@@ -5,8 +5,8 @@ date:       2018-04-28
 summary:    Komunitas menjadi bagian penting dalam karirnya sebagai developer
 ---
 
-<iframe src="https://anchor.fm/ceritanya-developer/embed/episodes/devs0--Dicky-Arinal-e186lm/a-a2rj6j" height="162px" width="98%" frameborder="0" scrolling="no"></iframe>
-<a href="http://randomscreencast.com.s3.amazonaws.com/cdp-03.mp3" target="_blank">Download</a>
+<iframe src="https://anchor.fm/ceritanya-developer/embed/episodes/devs2--Trimikha-Valentius-e1b7ri" height="162px" width="98%" frameborder="0" scrolling="no"></iframe>
+<a href="https://d3ctxlq1ktw2nl.cloudfront.net/production/2018-3-23/2340804-22050-1-3c0034ec6fece.m4a" target="_blank">Download</a>
 
 Trimikha Valentius adalah _lead developer_ di sebuah perusahaan _digital advertising_ asal Australia, Ogilvy. Awal ketertarikannya di dunia komputer adalah _game_ dan kemudian dilanjutkan dengan game development. Karena pada saat itu Mas Mikha mengenal komunitas game yang namanya Game Developer Indonesia akhirnya bisa belajar dan mendapat banyak kenalan sehingga dapat kesempatan menjadi game developer profesional.
 
