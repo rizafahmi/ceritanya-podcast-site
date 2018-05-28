@@ -1,7 +1,7 @@
 ---
 layout:     episode
 title:      devs[2] = Trimikha Valentius
-date:       2018-04-28
+date:       2018-05-28
 summary:    Komunitas menjadi bagian penting dalam karirnya sebagai developer
 ---
 
