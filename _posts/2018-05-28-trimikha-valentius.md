@@ -8,6 +8,16 @@ summary:    Komunitas menjadi bagian penting dalam karirnya sebagai developer
 <iframe src="https://anchor.fm/ceritanya-developer/embed/episodes/devs2--Trimikha-Valentius-e1b7ri" height="162px" width="98%" frameborder="0" scrolling="no"></iframe>
 <a href="https://d3ctxlq1ktw2nl.cloudfront.net/production/2018-3-23/2340804-22050-1-3c0034ec6fece.m4a" target="_blank">Download</a>
 
+<h2>Subscribe</h2>
+<a style="background-image: none" href="https://anchor.fm/ceritanya-developer" data-vars-outbound-link="https://anch.co/get_anchor" target="_blank" rel="noopener noreferrer"><img alt="Anchor Podcasts" class="styles__anchorPodcasts___CJAQT" src="https://d12xoj7p9moygp.cloudfront.net/images/podcast/anchor-podcasts-3.png" srcset="https://d12xoj7p9moygp.cloudfront.net/images/podcast/anchor-podcasts-3.png 1x, https://d12xoj7p9moygp.cloudfront.net/images/podcast/anchor-podcasts-3@2x.png 2x" width="130" height="40"></a> 
+<a style="background-image: none" class=" jsOutboundLink" href="https://itunes.apple.com/id/podcast/ceritanya-developer-podcast/id1364448110?mt=2" data-vars-outbound-link="https://itunes.apple.com/us/podcast/tehataukopi/id1352151842?mt=2" target="_blank" rel="noopener noreferrer"><img alt="Apple Podcasts" class="styles__applePodcasts___1BGG3" src="https://d12xoj7p9moygp.cloudfront.net/images/podcast/apple-podcasts-3.png" srcset="https://d12xoj7p9moygp.cloudfront.net/images/podcast/apple-podcasts-3.png 1x, https://d12xoj7p9moygp.cloudfront.net/images/podcast/apple-podcasts-3@2x.png 2x" width="137" height="40"></a> 
+<a style="background-image: none" class=" jsOutboundLink" href="http://pca.st/CwU8" data-vars-outbound-link="http://pca.st/L333" target="_blank" rel="noopener noreferrer"><img alt="PocketCasts" class="styles__pocketCasts___iURED" src="https://d12xoj7p9moygp.cloudfront.net/images/podcast/pocketcasts-4.png" srcset="https://d12xoj7p9moygp.cloudfront.net/images/podcast/pocketcasts-4.png 1x, https://d12xoj7p9moygp.cloudfront.net/images/podcast/pocketcasts-4@2x.png 2x" width="131" height="40"></a>
+
+
+> "Membuat aplikasi dan game itu seperti merakit mainan yang bagian-bagiannya sudah ada tinggal bagaimana kita merangkainya menjadi satu kesatuan yang dapat berfungsi dengan baik. Itulah sebabnya saya sangat mencintai dunia programming hingga saat ini." Trimikha Valentius.
+
+<a style="background-image: none;" href="https://ctt.ac/FCy50"><img style="width: 32px;" src="images/icons/2.png" /> Tweet it!</a>
+
 Trimikha Valentius adalah _lead developer_ di sebuah perusahaan _digital advertising_ asal Australia, Ogilvy. Awal ketertarikannya di dunia komputer adalah _game_ dan kemudian dilanjutkan dengan game development. Karena pada saat itu Mas Mikha mengenal komunitas game yang namanya Game Developer Indonesia akhirnya bisa belajar dan mendapat banyak kenalan sehingga dapat kesempatan menjadi game developer profesional.
 
 Menurut Mas Mikha, membuat aplikasi dan _game_ itu seperti merakit mainan yang bagian-bagiannya sudah ada tinggal bagaimana kita merangkainya menjadi satu kesatuan yang dapat berfungsi dengan baik. Itulah sebabnya Mas Mikha sangat mencintai dunia programming.
